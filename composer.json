@@ -1,0 +1,6 @@
+{
+    "name": "mingju/fet",
+    "description": "This is MingJu Company Front-end toolset",
+    "type":"library",
+    "license": "MIT"
+}
